@@ -22,6 +22,10 @@ gatsby new gatsby-site https://github.com/gatsbyjs/gatsby-starter-hello-world
 cd gatsby-site
 
 gatsby develop
+
+gatsby clean
+
+gatsby build
 ```
 
 - [`starter library`](https://www.gatsbyjs.org/starters/?s=hello&v=2)
