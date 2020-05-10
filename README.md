@@ -19,12 +19,13 @@
 ```sh
 npm install -g gatsby-cli
 
-  cd <directory>
+cd <directory>
 
 gatsby new [rootPath] [starter]
 
-  cd gatsby-site
-  gatsby develop
+cd gatsby-site
+
+gatsby develop
 ```
 
 - [`starter library`](https://www.gatsbyjs.org/starters/?s=hello&v=2)
